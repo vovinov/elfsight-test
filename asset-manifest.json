@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elfsight-test/static/css/main.6de40522.chunk.css",
-    "main.js": "/elfsight-test/static/js/main.940d9ad0.chunk.js",
-    "main.js.map": "/elfsight-test/static/js/main.940d9ad0.chunk.js.map",
+    "main.js": "/elfsight-test/static/js/main.3468521f.chunk.js",
+    "main.js.map": "/elfsight-test/static/js/main.3468521f.chunk.js.map",
     "runtime-main.js": "/elfsight-test/static/js/runtime-main.31ddeeb2.js",
     "runtime-main.js.map": "/elfsight-test/static/js/runtime-main.31ddeeb2.js.map",
     "static/js/2.c6f28c2d.chunk.js": "/elfsight-test/static/js/2.c6f28c2d.chunk.js",
     "static/js/2.c6f28c2d.chunk.js.map": "/elfsight-test/static/js/2.c6f28c2d.chunk.js.map",
     "index.html": "/elfsight-test/index.html",
-    "precache-manifest.84654e312fa443a8e4f2656b2fb0d162.js": "/elfsight-test/precache-manifest.84654e312fa443a8e4f2656b2fb0d162.js",
+    "precache-manifest.9760153bd279b5d0826794b305ac43e1.js": "/elfsight-test/precache-manifest.9760153bd279b5d0826794b305ac43e1.js",
     "service-worker.js": "/elfsight-test/service-worker.js",
     "static/css/main.6de40522.chunk.css.map": "/elfsight-test/static/css/main.6de40522.chunk.css.map",
     "static/js/2.c6f28c2d.chunk.js.LICENSE.txt": "/elfsight-test/static/js/2.c6f28c2d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.31ddeeb2.js",
     "static/js/2.c6f28c2d.chunk.js",
     "static/css/main.6de40522.chunk.css",
-    "static/js/main.940d9ad0.chunk.js"
+    "static/js/main.3468521f.chunk.js"
   ]
 }
