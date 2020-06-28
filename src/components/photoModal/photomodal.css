@@ -1,0 +1,63 @@
+.modal__box {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal__header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.modal__count {
+    font-size: 25px;
+    font-weight: 700;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.modal__exit {
+    cursor: pointer;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    transition: all .3s;
+}
+
+.modal__exit:hover {
+    transform: scale(1.3);
+}
+
+.modal__picture {
+    text-align: center;
+}
+
+.modal__img {
+    width: 70%;
+}
+
+.modal__button {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 12px;
+    background-color: transparent;
+    border: none;
+    transition: all .3s;
+}
+
+.modal__button:hover {
+    transform: scale(1.1);
+}
+
+.modal__button--left {
+    left: 0;
+}
+
+.modal__button--right {
+    right: 0;
+}

@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 5px;
+    margin: 0 0 20px 0;  
+}
+
+.header__title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 0 auto;
+}
+
+.header__button {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    animation: all .3s;
+}
+
+.header__button:hover {
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 576px) {
+
+    .header__title {        
+        margin: 0 auto;
+    }
+}
